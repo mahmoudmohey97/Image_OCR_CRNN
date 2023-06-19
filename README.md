@@ -20,3 +20,7 @@ Contains three functions: encode_to_labels, labels2text, and pad_text. These fun
 
 ### model_utils.py 
 The provided code implements a Convolutional Recurrent Neural Network (CRNN) for text recognition. The model architecture combines convolutional layers for feature extraction with recurrent layers for sequence modeling.
+
+### Django inference snapshot
+![inference](https://github.com/mahmoudmohey97/Image_OCR_CRNN/assets/34627623/8b469936-7aa0-4fa9-882e-d1090cdf058f)
+
